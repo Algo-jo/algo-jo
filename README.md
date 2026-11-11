@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Aaron, a 3rd Year Computer Science Student at BINUS University specializing Intelligent Systems.
+
+In this profile, I'll be uploading some small projects and documentation that I'm currently working on.
