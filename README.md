@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There, I'm Aaron 👋
 
 <!--
 **Algo-jo/algo-jo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Aaron, a 3rd Year Computer Science Student at BINUS University.
+I'm a 3rd Year Computer Science Student at BINUS University.
 
 I specialized on Intelligent Systems and Data Science.
 
@@ -25,3 +25,5 @@ In this profile, I'll be uploading some small projects and documentation that I'
 - Python, C++, SQL, Java
 - Tensorflow/Keras, Scikit-Learn, Pandas
 - React, Laravel, Figma
+
+For more information about me, check contacts on my profile 👈
