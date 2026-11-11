@@ -18,7 +18,7 @@ I'm a 3rd Year Computer Science Student at BINUS University.
 
 I specialized on Intelligent Systems and Data Science.
 
-In this profile, I'll be uploading some small projects and documentation that I'm currently working on.
+In this profile, I'll be uploading some small projects and documentations that I'm currently working on.
 
 
 ## Technology & Tech Stack
