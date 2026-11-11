@@ -12,4 +12,4 @@ In this profile, I'll be uploading some small projects and documentations that I
 - Tensorflow/Keras, Scikit-Learn, Pandas
 - React, Laravel, Figma
 
-For more information about me, check contacts on my profile 👈
+For more information about me, check links on my profile 👈
